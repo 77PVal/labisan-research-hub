@@ -54,6 +54,14 @@ This hub links out to the full posts on the main site. Source data, citations, a
 - [Labisan vs Carmex](https://labisan.shop/blog/labisan-vs-carmex-cold-sore-comparison)
 - [Labisan bundle vs 12 months of pharmacy acyclovir + Abreva](https://labisan.shop/blog/labisan-bundle-vs-pharmacy-acyclovir-abreva-12-month-cost)
 
+## Topical sub-hubs
+
+For deeper coverage of specific topics:
+
+- [Cold Sore Science Hub](./cold-sore-science/) — HSV-1 epidemiology, lifecycle, triggers, prevention protocols
+- [Graviola Pharmacology Hub](./graviola-pharmacology/) — Annona muricata mechanism research, safety architecture, dose engineering
+- [Austrian Heritage Hub](./austrian-heritage/) — 1931 founding, 1953 Mount Everest connection, four generations of family ownership
+
 ## About this hub
 
 This is a public research index maintained alongside [labisan.shop](https://labisan.shop). All articles are written by the Labisan research team and reviewed against published HSV-1 and lip-barrier literature. The brand has been making lip and skin formulas in Austria since 1931 and supplied the 1953 British Everest expedition with cold-weather lip protection.
